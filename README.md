@@ -9,8 +9,13 @@ I have 2 big passions: Linux and Automatisation. So thats what you'll mainly fin
 * Ansible
 * Bash
 * KVM/QEMU
+* Docker (& compose)
 * Powershell (mainly for work)
 * Front-end webdevelopment (HTML, (S)CSS, Javascript/jQuery)
 * Back-end webdevelopment (PHP, MySQL)
+
+**Currently Learning**
+* Kubernetes
+* Ansible
 
 Make sure to check out my Bash Scripts, Ansible Playboos and all other kind of stuff!
