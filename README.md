@@ -10,7 +10,7 @@ I have 2 big passions: Linux and Automation. So thats what you'll mainly find on
 * Bash
 * KVM/QEMU
 * Docker (& compose)
-* Powershell (mainly for work)
+* Python
 * Front-end webdevelopment (HTML, (S)CSS, Javascript/jQuery)
 * Back-end webdevelopment (PHP, MySQL)
 
