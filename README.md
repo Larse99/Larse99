@@ -16,6 +16,5 @@ I have 2 big passions: Linux and Automation. So thats what you'll mainly find on
 
 **Currently Learning**
 * Kubernetes
-* Ansible
 
 Make sure to check out my Bash Scripts, Ansible Playboos and all other kind of stuff!
