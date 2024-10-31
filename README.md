@@ -1,20 +1,24 @@
-Hi!
-My name is Lars Eissink, 24 years old and living in the eastern part of the Netherlands.
-Professionally I work in IT, but in my sparetime I like to deepdive and tinker around with all kinds of IT projects and subjects.
+# Hi, my name is Lars 👋
+Hey there! I’m Lars, a 24 year old Linux Engineer with a love for automation, app development, and everything Linux. 🚀 Python’s my go-to, but I’m always down to dive into new tools and tech. 💻 Whether it’s scripting, automating deployments, or exploring the latest in open source, I’m all about automation and creating scalable solutions.
 
-I have 2 big passions: Linux and Automation. So thats what you'll mainly find on my profile.
+🌟 Here’s what you’ll find:
+```
+  ⚙️ Automation scripts to optimize workflows
+  🌐 Web development projects, mostly front-end though.
+  📈 Open Source contributions and collaborations with fellow tech enthusiasts 🤓
+```
 
-**Current stack**
-* Proficient in Linux (RHEL, CentOS, Fedora)
-* Ansible
-* Bash
-* KVM/QEMU
-* Docker (& compose)
-* Python
-* Front-end webdevelopment (HTML, (S)CSS, Javascript/jQuery)
-* Back-end webdevelopment (PHP, MySQL)
+🛠 Tech Stack:
 
-**Currently Learning**
-* Kubernetes
+    Development: Python, PHP, HTML, SCSS, JavaScript
+    Systems Engineering: HAProxy, NGINX, Apache2, Virtualization, Networking, Docker
+    Automation: Ansible, Terraform, CloudInit, IaC
+ 
+📚 Currently Learning:
+- Kubernetes
+- NuxtJS
 
-Make sure to check out my Bash Scripts, Ansible Playboos and all other kind of stuff!
+
+📫 Reach out: Feel free to connect or follow me here to stay updated on my latest projects! 👇
+- https://larrs.nl
+- https://blog.larrs.nl
