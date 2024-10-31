@@ -11,7 +11,7 @@ Hey there! I’m Lars, a 24 year old Linux Engineer with a love for automation, 
 🛠 Tech Stack:
 
     Development: Python, PHP, HTML, SCSS, JavaScript
-    Systems Engineering: HAProxy, NGINX, Apache2, Virtualization, Networking, Docker
+    Systems Engineering: Linux (<3), Bash, HAProxy, NGINX, Apache2, Virtualization, Networking, Docker
     Automation: Ansible, Terraform, CloudInit, IaC
  
 📚 Currently Learning:
