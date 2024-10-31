@@ -1,4 +1,4 @@
-# Hi, my name is Lars 👋
+# Hi, my name is Lars 👋 🐧
 🚀 Hey there! I’m Lars, a 24 year old Linux Engineer with a love for automation, app development, and everything Linux. 🐍 Python’s my go-to, but I’m always down to dive into new tools and tech. 💻 Whether it’s scripting, automating deployments, or exploring the latest in open source, I’m all about automation and creating scalable solutions.
 
 🌟 Here’s what you’ll find:
